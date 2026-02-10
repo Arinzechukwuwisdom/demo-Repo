@@ -1,3 +1,3 @@
 # Demo
 
-Something Delicious.
+Something Delicious!
